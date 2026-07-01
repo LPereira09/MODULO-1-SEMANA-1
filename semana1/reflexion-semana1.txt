@@ -1,0 +1,9 @@
+El uso responsable de la información en internet permite compartir contenido de forma ética y evitar la 
+difusión de noticias falsas. Esto fortalece la participación ciudadana porque las personas pueden tomar
+ decisiones mejor informadas. Además, fomenta el respeto por las opiniones de los demás y el uso adecuado
+  de las plataformas digitales. En el trabajo técnico, herramientas como Git ayudan a organizar los
+   cambios realizados en un proyecto. También permiten que varias personas trabajen al mismo tiempo 
+   sin perder información. Gracias al control de versiones, es posible revisar el historial de cambios
+    y corregir errores fácilmente. Tanto la ciudadanía digital como Git promueven la responsabilidad, 
+    la colaboración y la transparencia. En ambos casos, el objetivo es trabajar de manera organizada y
+     contribuir de forma positiva al desarrollo de proyectos y comunidades.
